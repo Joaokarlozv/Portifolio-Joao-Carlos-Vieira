@@ -32,10 +32,6 @@ Estudante de Engenharia de Software no ICEV com foco em desenvolvimento web e te
 ## 🚀 Projetos Destacados
 
 Aqui estão alguns dos meus projetos mais recentes:
-
-1. **[Portfólio Responsivo](https://github.com/Joaokarlozv/portfolio)**  
-   Site pessoal desenvolvido com HTML, CSS e JavaScript, com integração à API do GitHub.
-
 *Veja todos os meus repositórios [aqui](https://github.com/Joaokarlozv?tab=repositories).*
 
 ## 📌 Objetivos
