@@ -36,12 +36,6 @@ Aqui estão alguns dos meus projetos mais recentes:
 1. **[Portfólio Responsivo](https://github.com/Joaokarlozv/portfolio)**  
    Site pessoal desenvolvido com HTML, CSS e JavaScript, com integração à API do GitHub.
 
-2. **[Sistema de Gestão](https://github.com/Joaokarlozv/gestao)**  
-   Aplicação web para gestão de dados com interface moderna e responsiva.
-
-3. **[Landing Page Moderna](https://github.com/Joaokarlozv/landing-page)**  
-   Página de apresentação com design contemporâneo e otimizada para todos os dispositivos.
-
 *Veja todos os meus repositórios [aqui](https://github.com/Joaokarlozv?tab=repositories).*
 
 ## 📌 Objetivos
